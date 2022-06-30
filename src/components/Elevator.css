@@ -1,0 +1,7 @@
+.elevator {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color: #282c34;
+  transition: 0.3s;
+}
